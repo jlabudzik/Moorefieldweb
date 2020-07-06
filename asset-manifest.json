@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab89ae63.chunk.css",
+    "main.js": "/static/js/main.46f90b76.chunk.js",
+    "main.js.map": "/static/js/main.46f90b76.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9bbc073c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9bbc073c.js.map",
+    "static/js/2.62e21e90.chunk.js": "/static/js/2.62e21e90.chunk.js",
+    "static/js/2.62e21e90.chunk.js.map": "/static/js/2.62e21e90.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.be138a2b1a01263b0a71791571ccafe8.js": "/precache-manifest.be138a2b1a01263b0a71791571ccafe8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ab89ae63.chunk.css.map": "/static/css/main.ab89ae63.chunk.css.map",
+    "static/js/2.62e21e90.chunk.js.LICENSE.txt": "/static/js/2.62e21e90.chunk.js.LICENSE.txt"
+    "start_url": "http://moorefieldweb.com/Labudzik"
+}
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bbc073c.js",
+    "static/js/2.62e21e90.chunk.js",
+    "static/css/main.ab89ae63.chunk.css",
+    "static/js/main.46f90b76.chunk.js"
+  ]
